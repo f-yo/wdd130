@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: white;
+    font-size: 1.5em;
+    background-color: green;
+    padding: 25px;
+    border: 3px solid #fff000;
+    margin: 50px 100px 10px 300px;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Water Brush', cursive;
+}
+h2{
+    color: blue;
+    background-color: brown;
+}
+p{
+    width: 700px;
+    margin: 15px auto;
+   
+}
+.wider{
+    width: 700px;
+    color: beige;
+    line-height: 1.5em;
+}
+#myname {
+    color: aqua;
+    
+}
