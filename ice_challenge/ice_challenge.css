@@ -1,0 +1,36 @@
+.desk{
+    width: 300px;
+    border-radius: 50%;
+    border: solid 15px black;
+   
+
+}
+.graphic{
+    width: 300px;
+    border-radius: 50%;
+    border: solid 15px black;
+    
+
+}
+.person{
+    width: 300px;
+    border-radius: 50%;
+    border: solid 15px black;
+    
+    
+
+}
+.circles{
+    width: 100%;
+    grid-column: 1/-1;
+    
+    
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: gray;
+    place-items: center;
+}
