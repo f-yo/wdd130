@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    font-family: 'Noto Sans', sans-serif;
+    color: #666666;
+}
+main{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 249px 1fr;
+    gap: 30px;
+    max-width: 680px;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+#cta img{
+width: 249px;
+
+}
+#cta section{
+    width: 360px;
+}
+#cta h1{
+    font-size: 2.2em;
+    text-align: center;
+    line-height: 1.1 em;
+    margin-bottom: 20px;
+
+}
+#cta p {
+
+    text-align: center;
+    line-height: 1.1 em;
+
+}
+.text-input{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 1.1em;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    color: #666666;
+}
+#cta label{
+    font-size: 0.9em;
+    cursor: pointer;
+}
+.submit-button{
+    display: block;
+    background-color: #e39968;
+    color: white;
+    font-size: 1.05em;
+    font-weight: bold;
+    padding: 13px 15px;
+    text-transform: uppercase;
+    margin: 20px auto;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 1px;
+
+}
+.submit-button{
+    background-color: #d38958;
+}
+.right{
+    float: right;
+    font-weight: bold;
+    font-size: 2em;
+    margin-right: -25px;
+}
+
+.right:link, .right:visited, .right:hover, .right:active {
+    color: #666666;
+    text-decoration:none;
+}
+.right:hover{
+    color: #e39968;
+
+}
