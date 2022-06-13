@@ -1,0 +1,46 @@
+#p{
+    text-align: center;
+    background-color: white;
+}
+img{
+    justify-items: center;
+align-items: center;
+width: 400px;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+
+
+
+}
+.container{
+    display: grid;
+    width: 400px;
+    height: 400px;
+    margin-left: 620px;
+    margin-top: 100px;
+    
+   
+    
+   
+    
+    
+}
+.py{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(97, 97, 241);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+   
+}
+
+body{ background-color: black
+    
+}
+#p1{
+    color: lightblue;
+
+}
+.first{
+    margin-left: 10px;
+}
