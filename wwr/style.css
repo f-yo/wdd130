@@ -20,6 +20,7 @@ nav a {
 #hero-msg h4 {
     text-align: center;
     color: white;
+    
 }
 
 .button-box {
@@ -68,8 +69,9 @@ main section img {
 }
 
 .logo {
-    width: 80px;
-    size: 700px;
+    width: 200px;
+    size: 600px;
+    padding-left: 70px;
 
 
 }
@@ -176,8 +178,8 @@ footer {
 .home-title {
     color: white;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
-    font-size: 2em;
-    margin-top: 10px;
+    font-size: 3em;
+    margin-top: 25px;
 
     
 }
