@@ -1,0 +1,30 @@
+
+.container{
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+
+#first{
+    
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+       
+    
+}
+#second{
+    
+    width: 500px;
+    
+
+    
+}
+.img1{
+    width: 20%;
+    border: solid ;
+    border-radius: 90%;
+    
+}
